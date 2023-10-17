@@ -1,0 +1,35 @@
+TO DO LIST
+
+1. Things to install
+LSP
+Autocomplete
+Nvim Tree
+Lualine
+Treesitter
+Telescope
+
+
+1234567890b101010  4 12345678979 9876543210
+
+2
+@ #$ % ^ & * ( )
+
+  ON ON o90  90  fn main 90  fn mani 90 fn man () fn main fn main 9 90 () 90 () O) (* () () 
+  ooooOOO((((()0@@@# ####$  
+  )!&**(555544  $$$87878
+  @  $ $0$$ $)  )  ) ) $) $) {} fn main fn mai{
+    o}
+
+function M.config.setup{}
+function M.config.setup {
+
+  }
+
+function M.config.setuo {
+   45+)=--=yy_--____ what _camel_case camel&- camel camel_camelY  camelY camel
+   camel_ caje  camel camel-c canely  camleYy- caml- camel7camel- camel-case camely camel-case
+   camel_case
+  }
+
+)!  fn main(B) fn main() fn main() () () () O)  O f   () (() () ()()()()(()
+()() ()( () () * %  $$ $ $ )
