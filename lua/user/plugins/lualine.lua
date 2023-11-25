@@ -47,6 +47,8 @@ function M.config()
       globalstatus = true,
       icons_enabled = true,
       theme = "onedark",
+      -- theme = "tokyonight",
+      -- theme = "gruvbox",
       component_separators = { left = "", right = "" },
       section_separators = { left = "", right = "" },
       disabled_filetypes = { "alpha", "dashboard" },
