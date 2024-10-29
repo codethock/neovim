@@ -25,10 +25,10 @@ keymap.n("<Up>", "<C-w>k", opts) -- Navigate to the top split
 keymap.n("<Right>", "<C-w>l", opts) -- Navigate to the right split 
 
 -- Resize with arrows
-keymap.n("<C-Down>", "<cmd>resize -2<cr>", opts) -- Shrink window horizontally 
 keymap.n("<C-Up>", "<cmd>resize +2<cr>", opts) -- Increase window horizontally 
-keymap.n("<C-Right>", "<cmd>:vertical resize -2<cr>", opts) -- Shrink window vertically 
+keymap.n("<C-Down>", "<cmd>resize -2<cr>", opts) -- Shrink window horizontally 
 keymap.n("<C-Left>", "<cmd>:vertical resize +2<cr>", opts) -- Increase window vertically 
+keymap.n("<C-Right>", "<cmd>:vertical resize -2<cr>", opts) -- Shrink window vertically 
 
 -- Navigate buffers
 keymap.n("<S-l>", "<cmd>bnext<cr>", opts) -- Next buffer 

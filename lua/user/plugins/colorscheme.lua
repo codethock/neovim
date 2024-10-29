@@ -38,15 +38,15 @@ return M
 --   end
 --
 --   tokyonight.setup {
---     style = "moon"
+--     -- style = "moon"
 --     -- style = "storm"
---     -- style = "night"
+--     style = "night"
 --   }
 --   require(M.name).load()
 -- end
 --
 -- return M
-
+--
 -- local M = {
 --   "ellisonleao/gruvbox.nvim",
 --   lazy = false,
